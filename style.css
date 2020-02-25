@@ -41,7 +41,7 @@ html {
     font-size: 2rem;
   }
   
-  /*nav*/
+ 
   .navigation {
     text-align: center;
     padding: 0;
@@ -57,7 +57,7 @@ html {
   }
   
   
-  /*main*/
+  
   .trip-text {
     display: none;
   }
